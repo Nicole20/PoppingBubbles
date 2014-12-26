@@ -104,7 +104,6 @@ void draw()
 	}
 
 	glutPostRedisplay();
-	//glutSwapBuffers();
 	glFlush();
 }
 
